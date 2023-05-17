@@ -9,4 +9,4 @@ Ristorante-con-Fusion is a restaurant website that allows users to book a table 
 * Sales Figures: The platform provides insights into the sales figures, allowing restaurant owners and managers to track the popularity and performance of different menu items.
 
 # Technologies Used
-Front-end: HTML, CSS, Bootstrap
+* Front-end: HTML, CSS, Bootstrap
